@@ -1,4 +1,4 @@
-# indentifying-crypto-transactions
+# Indentifying-crypto-transactions
 
 Bitcoin transactions can have multiple inputs and multiple outputs. It is common for Bitcoin
 transactions to have one input and two outputs; one of the outputs is likely to be the
