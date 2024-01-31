@@ -26,7 +26,7 @@ The Dataset
 Here you can download a file containing some stats on a sample of Bitcoin transactions from
 the early days of bitcoin (2009) to 2016: dataset.tar.gz (398M / 112M compressed)
 
-Data description:
+# Data description:
   1. time_info.csv
   Id - just an id
   Time - unix timestamp in seconds
@@ -38,7 +38,7 @@ Data description:
   Invol - incoming volume to the TX (units: satoshis)
   outvol - volume spent in the TX (units: satoshis)
 
-Explorations
+# Explorations
 
     ● Can you think of a simple “heuristic” (two/three rules) that could be used to identify
     SharedCoin transactions?
@@ -57,10 +57,5 @@ Explorations
     type of transaction doesn’t appear in the dataset).
     ● Can you think of ways that ground truth / true positives / false positives can
     be evaluated for?
-    Guidelines
-    ● We expect this should take you around 2 hours. It is ok to submit partial answers,
-    with the steps you would take to complete the answer. We are interested in how you
-    chose to spend your time and what you would have done given more time.
-    ● In the interests of time, focus on properties of single transactions, do not attempt
-    graph related exploration.
-    ● You may use any freely accessible tooling and any information on the web
+=
+
